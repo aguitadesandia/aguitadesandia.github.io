@@ -1,0 +1,53 @@
+h1{
+    color:black;
+    font-size:1.9em;
+    text-align:center;
+    width:48em;
+    padding:3px;
+    margin:10px;
+    display:inline-block;
+    font-family:sans-serif;
+    background-color:#89DFDC;
+}
+h2{
+    font-family:cursive;
+    font-size:25px;
+}
+.p{
+    font-size:15px;
+    font-family:cursive;
+}
+#TICS{
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid black; 
+    width: 250px;
+}
+#Admin{
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid black;
+    width:250px
+}
+#Com{
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid black; 
+    width: 400px;
+}
+#Tur{
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid black; 
+    width: 230px;
+}
+#Conta{
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid black; 
+    width: 270px;
+}
+.uno{
+    font-size:25px;
+    text-decoration-line: underline;
+}

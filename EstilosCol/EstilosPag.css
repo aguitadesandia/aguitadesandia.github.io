@@ -1,0 +1,36 @@
+h1{
+    color:black;
+    font-size:30px;
+    width:70vw;
+    padding:3px;
+    margin:9px;text-align: center;
+    display:inline-block;
+}
+.Imagen1{
+    float:right;
+}
+.Imagen2{
+    float:left;
+}
+.Menu{
+    display: inline-block;
+    width: 10%;
+    background-color:#EFF243;
+    font-size: 19px;
+    font-family:cursive;
+    color:black;
+    margin:9px;
+    text-align:center;
+    border: solid;
+    border-color:chartreuse;
+}
+body{
+   background-color:#96EAE6;
+}
+#Marco{
+    background-color:#F7AC4E;
+}
+footer{
+    text-align: center;
+    background-color: violet;
+}

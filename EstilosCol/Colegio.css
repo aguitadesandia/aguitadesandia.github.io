@@ -1,0 +1,12 @@
+#mapa{  
+    border: 2px solid black; 
+    width: 600px;
+    height:300px
+}
+.dos{
+    font-size:20px
+}
+h5{
+    font-size: 30px;
+    margin:25px;
+}

@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+}
+body{
+    background-image:url(Selva.gif);
+    background-size:cover;
+    background-repeat: no-repeat;   
+}
+h4{
+    color:white;
+}
+h2{
+    color:white;
+}
+.Animales{
+    color:white;
+    text-align: justify;
+}

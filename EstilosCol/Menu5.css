@@ -1,0 +1,13 @@
+#Musica{
+    height: 250px;
+    width: 300px;
+}
+.tres{
+    font-family: monospace;
+    font-size: 15px;
+}
+h2{
+    background-color: blue;
+    color:white;
+    text-align: center;
+}
